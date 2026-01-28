@@ -1,0 +1,501 @@
+Date,Country,Region,City,Sales_Channel,Product,Units_Sold,Unit_Price_INR,Revenue_INR,Discount_%,Customer_Rating
+2020-02-25 07:29:00,India,Central,Mumbai,Restaurant,Fanta,160,35,5600,0,3.7
+2020-04-03 18:33:00,India,Central,Bangalore,Vending Machine,Sprite,233,45,10485,15,3.4
+2021-06-02 10:39:00,India,Central,Delhi,Online,Diet Coke,162,35,5670,0,3.4
+2021-11-04 07:34:00,India,West,Kolkata,Restaurant,Fanta,32,30,960,10,4.9
+2025-03-15 00:37:00,India,North,Delhi,Supermarket,Diet Coke,16,35,560,10,3.5
+2021-08-21 16:59:00,India,North,Mumbai,Online,Coke Zero,111,40,4440,10,3.3
+2024-10-23 08:52:00,India,West,Bangalore,Online,Sprite,233,50,11650,15,3.2
+2022-03-15 01:50:00,India,North,Pune,Restaurant,Fanta,12,30,360,5,4.7
+2020-10-26 20:24:00,India,West,Kolkata,Supermarket,Fanta,288,35,10080,5,3.9
+2020-03-04 02:49:00,India,Central,Pune,Restaurant,Sprite,90,50,4500,0,4.1
+2025-04-29 19:42:00,India,West,Pune,Retail Store,Fanta,108,35,3780,15,3.1
+2024-03-25 15:15:00,India,West,Chennai,Retail Store,Sprite,119,35,4165,5,4.8
+2022-12-29 17:20:00,India,West,Pune,Restaurant,Fanta,111,50,5550,0,3.5
+2024-03-25 07:55:00,India,West,Bangalore,Restaurant,Sprite,11,35,385,10,3.7
+2023-05-03 19:32:00,India,North,Chennai,Online,Thums Up,139,30,4170,0,4.8
+2022-02-10 13:03:00,India,North,Delhi,Retail Store,Thums Up,195,35,6825,5,3.0
+2023-10-27 08:05:00,India,South,Mumbai,Online,Thums Up,222,30,6660,5,4.1
+2025-12-21 21:32:00,India,Central,Kolkata,Restaurant,Diet Coke,93,35,3255,0,5.0
+2020-03-19 02:58:00,India,North,Kolkata,Restaurant,Thums Up,223,35,7805,0,4.0
+2024-12-08 08:33:00,India,North,Kolkata,Online,Thums Up,275,35,9625,15,4.3
+2023-08-26 11:41:00,India,East,Mumbai,Vending Machine,Fanta,112,35,3920,10,3.0
+2021-10-21 16:36:00,India,Central,Hyderabad,Supermarket,Thums Up,182,50,9100,5,4.3
+2021-12-25 22:14:00,India,Central,Chennai,Vending Machine,Fanta,20,40,800,5,4.2
+2022-03-15 08:15:00,India,North,Mumbai,Online,Coca-Cola Classic,69,45,3105,15,4.8
+2021-05-28 11:54:00,India,North,Delhi,Online,Coca-Cola Classic,230,45,10350,5,4.2
+2023-05-18 16:22:00,India,East,Delhi,Online,Sprite,167,35,5845,0,3.2
+2022-05-10 23:53:00,India,North,Bangalore,Online,Coke Zero,268,35,9380,15,4.6
+2022-07-19 02:05:00,India,South,Delhi,Restaurant,Thums Up,139,50,6950,0,4.1
+2020-10-03 12:05:00,India,Central,Chennai,Retail Store,Thums Up,116,35,4060,5,3.5
+2025-07-23 21:19:00,India,Central,Chennai,Restaurant,Fanta,137,40,5480,0,4.2
+2023-02-15 00:27:00,India,Central,Mumbai,Retail Store,Diet Coke,163,45,7335,15,5.0
+2023-01-08 13:11:00,India,North,Hyderabad,Supermarket,Sprite,63,40,2520,0,4.6
+2024-02-03 17:02:00,India,South,Kolkata,Restaurant,Coke Zero,112,45,5040,15,4.3
+2021-06-30 21:43:00,India,Central,Chennai,Supermarket,Diet Coke,191,35,6685,10,3.9
+2023-09-11 13:41:00,India,Central,Hyderabad,Supermarket,Thums Up,96,40,3840,15,3.9
+2024-07-19 08:26:00,India,Central,Mumbai,Supermarket,Coke Zero,214,50,10700,5,4.9
+2024-03-05 10:15:00,India,West,Bangalore,Restaurant,Sprite,105,30,3150,10,4.3
+2022-11-20 01:42:00,India,South,Hyderabad,Retail Store,Diet Coke,135,45,6075,5,4.4
+2023-06-06 05:04:00,India,West,Bangalore,Online,Thums Up,286,35,10010,0,4.9
+2020-08-30 12:01:00,India,South,Kolkata,Retail Store,Coke Zero,189,30,5670,15,4.5
+2021-08-13 09:20:00,India,North,Hyderabad,Restaurant,Sprite,74,35,2590,0,5.0
+2022-04-21 07:45:00,India,East,Pune,Online,Thums Up,154,45,6930,0,4.7
+2021-05-11 21:54:00,India,North,Hyderabad,Online,Coca-Cola Classic,256,50,12800,5,3.1
+2024-02-03 03:51:00,India,Central,Chennai,Vending Machine,Fanta,118,30,3540,5,3.1
+2022-12-05 15:15:00,India,West,Kolkata,Online,Diet Coke,48,50,2400,0,4.6
+2025-10-16 21:30:00,India,East,Hyderabad,Online,Fanta,123,35,4305,0,4.9
+2022-05-01 15:48:00,India,East,Bangalore,Restaurant,Coke Zero,283,50,14150,5,4.6
+2024-04-23 00:16:00,India,North,Pune,Vending Machine,Coke Zero,240,50,12000,0,4.1
+2023-08-20 05:43:00,India,East,Delhi,Restaurant,Coca-Cola Classic,50,50,2500,15,5.0
+2024-08-07 23:41:00,India,South,Chennai,Vending Machine,Diet Coke,244,50,12200,15,3.6
+2024-08-27 01:42:00,India,West,Mumbai,Vending Machine,Coca-Cola Classic,72,40,2880,5,3.6
+2024-02-22 05:15:00,India,South,Delhi,Retail Store,Fanta,238,50,11900,15,4.2
+2020-11-17 14:26:00,India,Central,Chennai,Online,Fanta,74,30,2220,0,4.2
+2020-04-10 03:13:00,India,West,Bangalore,Vending Machine,Fanta,183,50,9150,0,3.0
+2021-02-19 12:27:00,India,Central,Mumbai,Supermarket,Coke Zero,19,35,665,0,3.3
+2024-06-24 22:03:00,India,West,Delhi,Supermarket,Thums Up,277,40,11080,10,4.0
+2025-12-17 03:14:00,India,Central,Hyderabad,Restaurant,Fanta,115,35,4025,15,3.7
+2025-09-16 00:45:00,India,South,Chennai,Supermarket,Coke Zero,214,30,6420,0,3.4
+2021-02-19 04:10:00,India,Central,Hyderabad,Online,Sprite,163,35,5705,10,4.1
+2023-07-30 02:41:00,India,South,Kolkata,Vending Machine,Coke Zero,238,35,8330,5,3.2
+2020-01-18 23:15:00,India,South,Mumbai,Supermarket,Sprite,161,45,7245,0,4.4
+2021-12-01 19:40:00,India,West,Bangalore,Online,Thums Up,185,40,7400,15,3.4
+2023-05-15 04:04:00,India,Central,Bangalore,Restaurant,Sprite,167,30,5010,15,3.6
+2022-11-14 17:41:00,India,West,Kolkata,Vending Machine,Coca-Cola Classic,77,35,2695,0,4.9
+2021-07-03 03:28:00,India,West,Mumbai,Online,Sprite,99,30,2970,0,3.6
+2024-10-20 14:06:00,India,East,Chennai,Supermarket,Diet Coke,133,45,5985,15,4.5
+2021-10-05 14:11:00,India,East,Bangalore,Online,Sprite,179,45,8055,10,3.4
+2020-07-25 00:29:00,India,South,Kolkata,Retail Store,Fanta,280,50,14000,5,4.7
+2025-06-22 05:51:00,India,South,Delhi,Vending Machine,Diet Coke,208,30,6240,10,5.0
+2023-10-11 01:11:00,India,South,Bangalore,Restaurant,Sprite,240,30,7200,5,3.9
+2024-05-27 18:01:00,India,South,Mumbai,Retail Store,Coke Zero,185,50,9250,15,3.4
+2025-12-06 23:58:00,India,West,Bangalore,Online,Diet Coke,222,40,8880,0,3.9
+2025-07-29 04:26:00,India,South,Delhi,Restaurant,Thums Up,107,50,5350,15,3.0
+2021-06-25 00:22:00,India,South,Hyderabad,Retail Store,Diet Coke,262,30,7860,0,4.8
+2020-02-21 12:42:00,India,East,Hyderabad,Retail Store,Thums Up,299,35,10465,0,4.7
+2021-07-31 04:58:00,India,East,Kolkata,Vending Machine,Fanta,151,50,7550,15,4.1
+2024-08-05 01:18:00,India,North,Mumbai,Supermarket,Thums Up,224,50,11200,5,4.9
+2025-09-01 16:44:00,India,North,Mumbai,Supermarket,Sprite,246,50,12300,5,4.2
+2025-01-05 18:26:00,India,Central,Pune,Retail Store,Diet Coke,136,35,4760,15,4.9
+2022-01-17 05:08:00,India,South,Bangalore,Online,Sprite,49,50,2450,15,3.5
+2024-01-05 20:32:00,India,South,Pune,Vending Machine,Thums Up,292,40,11680,15,3.5
+2022-02-06 09:15:00,India,Central,Delhi,Online,Coke Zero,115,50,5750,5,4.7
+2024-09-09 00:00:00,India,Central,Pune,Retail Store,Diet Coke,142,45,6390,0,3.8
+2023-12-22 20:01:00,India,West,Mumbai,Restaurant,Fanta,196,30,5880,10,4.0
+2024-11-28 18:40:00,India,East,Pune,Restaurant,Sprite,94,35,3290,15,4.1
+2023-03-05 16:05:00,India,Central,Bangalore,Retail Store,Sprite,231,35,8085,15,4.2
+2023-04-17 06:54:00,India,East,Pune,Retail Store,Coca-Cola Classic,164,30,4920,5,4.5
+2021-12-20 06:12:00,India,North,Mumbai,Restaurant,Sprite,265,35,9275,0,4.4
+2025-02-09 00:41:00,India,North,Chennai,Vending Machine,Sprite,75,50,3750,10,3.7
+2023-09-21 14:50:00,India,South,Pune,Supermarket,Coke Zero,46,30,1380,5,5.0
+2020-06-20 12:04:00,India,South,Kolkata,Online,Sprite,127,30,3810,10,3.7
+2023-09-24 00:00:00,India,East,Chennai,Restaurant,Coke Zero,111,50,5550,5,3.6
+2020-06-01 16:07:00,India,Central,Pune,Restaurant,Diet Coke,237,50,11850,5,4.9
+2021-01-25 19:51:00,India,South,Kolkata,Restaurant,Fanta,208,45,9360,5,4.1
+2023-10-19 14:56:00,India,West,Kolkata,Vending Machine,Diet Coke,34,40,1360,10,3.2
+2021-03-15 00:03:00,India,West,Hyderabad,Restaurant,Coke Zero,292,50,14600,10,4.5
+2020-12-20 20:48:00,India,North,Mumbai,Supermarket,Coke Zero,260,30,7800,0,4.0
+2021-05-09 15:59:00,India,North,Kolkata,Retail Store,Coca-Cola Classic,233,50,11650,5,4.0
+2023-05-26 06:29:00,India,Central,Bangalore,Retail Store,Coca-Cola Classic,27,50,1350,5,4.1
+2022-03-01 07:09:00,India,East,Pune,Online,Thums Up,243,45,10935,5,3.0
+2022-02-26 20:21:00,India,West,Delhi,Restaurant,Sprite,15,35,525,5,3.8
+2020-06-12 08:08:00,India,West,Kolkata,Vending Machine,Diet Coke,160,35,5600,10,3.4
+2021-06-03 17:43:00,India,West,Pune,Restaurant,Diet Coke,199,50,9950,15,3.3
+2022-02-24 18:20:00,India,West,Kolkata,Supermarket,Coca-Cola Classic,232,40,9280,15,4.3
+2020-07-24 06:00:00,India,North,Pune,Vending Machine,Fanta,162,45,7290,15,4.1
+2022-08-25 05:06:00,India,North,Bangalore,Retail Store,Coca-Cola Classic,94,50,4700,0,4.5
+2023-02-19 12:23:00,India,South,Hyderabad,Supermarket,Coke Zero,37,50,1850,5,4.6
+2023-02-16 19:28:00,India,Central,Hyderabad,Retail Store,Diet Coke,61,45,2745,0,3.3
+2025-11-21 05:34:00,India,North,Hyderabad,Vending Machine,Coca-Cola Classic,197,35,6895,10,3.0
+2022-10-07 08:19:00,India,West,Kolkata,Supermarket,Fanta,241,45,10845,15,3.6
+2023-01-26 01:37:00,India,North,Delhi,Restaurant,Sprite,11,45,495,5,4.0
+2020-04-01 08:25:00,India,North,Chennai,Online,Thums Up,115,40,4600,5,4.3
+2025-07-29 17:32:00,India,Central,Bangalore,Online,Sprite,143,35,5005,0,4.3
+2020-09-23 20:23:00,India,Central,Kolkata,Retail Store,Diet Coke,250,45,11250,0,3.7
+2025-07-22 03:37:00,India,Central,Mumbai,Retail Store,Coke Zero,190,40,7600,5,4.4
+2025-05-11 21:29:00,India,North,Chennai,Restaurant,Fanta,129,35,4515,15,4.0
+2025-08-25 23:06:00,India,North,Pune,Online,Diet Coke,34,30,1020,5,4.1
+2022-04-26 10:05:00,India,North,Bangalore,Online,Fanta,49,45,2205,15,3.8
+2025-01-09 14:42:00,India,West,Chennai,Restaurant,Coca-Cola Classic,122,40,4880,5,4.0
+2023-10-14 05:39:00,India,North,Kolkata,Online,Fanta,25,45,1125,0,4.3
+2020-12-21 12:19:00,India,West,Kolkata,Restaurant,Sprite,231,45,10395,0,3.6
+2022-12-05 08:37:00,India,East,Hyderabad,Supermarket,Diet Coke,296,45,13320,15,4.8
+2021-11-02 14:56:00,India,North,Mumbai,Restaurant,Fanta,177,45,7965,15,3.4
+2021-06-12 07:42:00,India,Central,Bangalore,Restaurant,Coke Zero,20,35,700,10,4.7
+2021-10-26 02:59:00,India,East,Hyderabad,Online,Thums Up,52,45,2340,15,4.1
+2025-09-19 21:16:00,India,Central,Kolkata,Restaurant,Diet Coke,35,40,1400,0,3.3
+2025-10-30 01:25:00,India,Central,Mumbai,Retail Store,Coke Zero,134,50,6700,10,3.5
+2022-11-01 04:17:00,India,South,Delhi,Supermarket,Fanta,62,50,3100,0,4.6
+2022-06-14 00:19:00,India,East,Kolkata,Supermarket,Coca-Cola Classic,93,40,3720,5,4.3
+2020-05-10 16:30:00,India,North,Bangalore,Supermarket,Fanta,39,30,1170,5,3.6
+2023-05-09 10:58:00,India,South,Pune,Vending Machine,Sprite,194,40,7760,5,4.6
+2025-07-26 02:18:00,India,East,Kolkata,Restaurant,Sprite,83,45,3735,15,3.0
+2020-12-29 09:20:00,India,North,Kolkata,Restaurant,Sprite,242,35,8470,0,3.5
+2021-06-17 14:09:00,India,North,Bangalore,Online,Coca-Cola Classic,135,30,4050,15,3.2
+2025-11-04 03:41:00,India,Central,Hyderabad,Supermarket,Fanta,53,50,2650,15,3.5
+2024-11-02 12:06:00,India,East,Hyderabad,Vending Machine,Diet Coke,108,35,3780,15,3.9
+2021-08-23 16:12:00,India,East,Hyderabad,Vending Machine,Coke Zero,12,50,600,10,4.2
+2022-07-06 22:53:00,India,North,Bangalore,Online,Diet Coke,299,35,10465,0,4.8
+2023-04-16 20:16:00,India,South,Mumbai,Online,Thums Up,87,35,3045,15,3.4
+2025-07-01 00:11:00,India,South,Mumbai,Retail Store,Sprite,104,35,3640,0,4.7
+2023-10-28 05:11:00,India,North,Pune,Supermarket,Thums Up,273,50,13650,10,4.0
+2020-02-14 14:54:00,India,Central,Chennai,Vending Machine,Coca-Cola Classic,13,45,585,15,4.0
+2023-10-17 01:39:00,India,North,Bangalore,Vending Machine,Fanta,127,45,5715,0,3.0
+2024-03-07 06:20:00,India,North,Chennai,Retail Store,Diet Coke,168,30,5040,10,3.3
+2023-04-09 09:48:00,India,Central,Pune,Supermarket,Sprite,65,45,2925,5,4.9
+2021-07-23 00:06:00,India,West,Mumbai,Restaurant,Diet Coke,164,45,7380,15,3.1
+2021-08-18 10:35:00,India,South,Bangalore,Retail Store,Sprite,89,30,2670,15,4.9
+2021-11-05 20:59:00,India,South,Bangalore,Supermarket,Diet Coke,253,40,10120,0,4.2
+2020-11-09 02:12:00,India,West,Hyderabad,Supermarket,Diet Coke,280,30,8400,10,4.2
+2024-09-09 21:51:00,India,West,Pune,Supermarket,Coke Zero,45,30,1350,15,4.3
+2023-12-15 03:06:00,India,Central,Pune,Restaurant,Coca-Cola Classic,62,35,2170,0,4.1
+2025-07-27 21:58:00,India,East,Kolkata,Online,Coke Zero,25,40,1000,5,4.7
+2025-08-15 23:10:00,India,East,Hyderabad,Restaurant,Coke Zero,128,50,6400,0,4.8
+2021-10-31 17:55:00,India,North,Mumbai,Retail Store,Coca-Cola Classic,138,35,4830,10,4.6
+2023-09-23 05:31:00,India,South,Kolkata,Restaurant,Diet Coke,19,35,665,0,3.2
+2020-08-16 12:35:00,India,East,Bangalore,Retail Store,Coca-Cola Classic,240,40,9600,5,3.8
+2020-03-07 05:53:00,India,East,Pune,Online,Diet Coke,206,30,6180,15,3.4
+2022-10-01 12:55:00,India,East,Kolkata,Retail Store,Thums Up,110,50,5500,15,4.7
+2022-01-01 23:03:00,India,West,Chennai,Retail Store,Fanta,120,35,4200,5,3.6
+2022-02-19 19:39:00,India,South,Bangalore,Supermarket,Coke Zero,183,40,7320,5,4.6
+2022-03-27 12:03:00,India,West,Chennai,Vending Machine,Thums Up,128,45,5760,0,3.4
+2023-07-05 20:07:00,India,North,Bangalore,Online,Sprite,134,40,5360,10,3.2
+2022-12-02 21:59:00,India,North,Hyderabad,Supermarket,Thums Up,210,50,10500,0,3.3
+2022-11-22 14:12:00,India,West,Pune,Supermarket,Sprite,189,40,7560,0,4.2
+2025-11-27 12:33:00,India,South,Chennai,Supermarket,Fanta,142,40,5680,10,4.6
+2023-03-09 20:29:00,India,North,Bangalore,Supermarket,Thums Up,230,50,11500,15,4.4
+2025-01-18 01:42:00,India,South,Bangalore,Supermarket,Thums Up,44,30,1320,0,4.3
+2021-09-28 12:28:00,India,North,Hyderabad,Online,Fanta,107,30,3210,15,4.4
+2025-05-13 14:25:00,India,Central,Mumbai,Supermarket,Sprite,81,45,3645,0,3.6
+2020-12-31 21:21:00,India,West,Delhi,Online,Coca-Cola Classic,115,45,5175,0,3.2
+2021-04-22 01:16:00,India,West,Hyderabad,Restaurant,Sprite,293,50,14650,0,4.8
+2025-02-22 21:22:00,India,South,Chennai,Supermarket,Coca-Cola Classic,277,35,9695,10,4.4
+2021-06-23 11:21:00,India,Central,Mumbai,Vending Machine,Diet Coke,147,40,5880,5,3.8
+2021-09-14 05:28:00,India,South,Delhi,Online,Diet Coke,272,40,10880,5,4.1
+2022-07-06 23:21:00,India,South,Chennai,Retail Store,Coca-Cola Classic,56,45,2520,0,3.2
+2024-10-07 08:43:00,India,North,Hyderabad,Retail Store,Fanta,98,40,3920,0,3.2
+2022-04-25 08:20:00,India,West,Kolkata,Supermarket,Coke Zero,160,45,7200,5,3.6
+2020-06-02 04:37:00,India,South,Chennai,Supermarket,Coca-Cola Classic,52,40,2080,0,4.6
+2025-06-28 16:17:00,India,West,Mumbai,Vending Machine,Diet Coke,240,40,9600,15,4.6
+2023-05-11 16:17:00,India,North,Bangalore,Supermarket,Coke Zero,184,50,9200,10,4.9
+2021-10-15 17:41:00,India,North,Delhi,Vending Machine,Coca-Cola Classic,179,50,8950,0,3.8
+2022-03-29 09:26:00,India,North,Kolkata,Retail Store,Diet Coke,254,50,12700,5,4.8
+2022-03-18 17:34:00,India,East,Delhi,Retail Store,Sprite,28,30,840,15,3.1
+2022-12-21 12:25:00,India,North,Hyderabad,Supermarket,Sprite,90,30,2700,0,3.1
+2020-01-10 15:52:00,India,North,Kolkata,Online,Thums Up,26,35,910,15,3.6
+2020-09-17 09:04:00,India,South,Pune,Supermarket,Diet Coke,134,35,4690,10,4.3
+2025-01-08 09:12:00,India,North,Bangalore,Online,Fanta,250,45,11250,15,4.8
+2025-04-04 10:57:00,India,East,Pune,Supermarket,Sprite,169,40,6760,5,4.2
+2021-10-19 02:43:00,India,West,Bangalore,Supermarket,Diet Coke,233,35,8155,5,4.8
+2024-10-14 11:08:00,India,North,Bangalore,Restaurant,Coca-Cola Classic,231,50,11550,5,3.5
+2023-09-07 10:00:00,India,South,Pune,Supermarket,Coca-Cola Classic,65,35,2275,10,4.9
+2022-05-30 02:46:00,India,West,Pune,Supermarket,Diet Coke,21,45,945,0,4.2
+2023-10-14 22:04:00,India,North,Delhi,Retail Store,Thums Up,231,40,9240,0,3.8
+2024-06-26 07:25:00,India,South,Chennai,Restaurant,Fanta,42,35,1470,10,4.8
+2022-01-24 18:38:00,India,West,Delhi,Online,Fanta,78,40,3120,10,3.5
+2024-11-30 19:15:00,India,Central,Chennai,Retail Store,Thums Up,149,30,4470,15,3.4
+2025-05-24 00:14:00,India,West,Chennai,Supermarket,Sprite,229,40,9160,15,4.7
+2025-02-17 15:28:00,India,West,Chennai,Retail Store,Fanta,30,35,1050,5,5.0
+2022-12-28 10:52:00,India,North,Mumbai,Retail Store,Fanta,70,40,2800,15,4.6
+2023-04-15 06:09:00,India,Central,Hyderabad,Vending Machine,Diet Coke,235,50,11750,15,3.5
+2024-11-03 02:22:00,India,South,Kolkata,Online,Diet Coke,41,30,1230,15,4.6
+2023-03-18 22:21:00,India,South,Hyderabad,Supermarket,Coca-Cola Classic,10,45,450,5,3.6
+2023-10-06 13:49:00,India,Central,Pune,Restaurant,Fanta,163,30,4890,0,3.2
+2023-03-14 16:31:00,India,Central,Kolkata,Restaurant,Sprite,109,45,4905,5,3.2
+2022-07-04 08:22:00,India,Central,Pune,Online,Thums Up,29,30,870,10,3.2
+2024-02-24 06:43:00,India,East,Hyderabad,Vending Machine,Sprite,143,45,6435,15,3.3
+2024-11-14 13:09:00,India,South,Kolkata,Retail Store,Coke Zero,64,45,2880,15,3.2
+2021-09-10 11:00:00,India,South,Delhi,Retail Store,Sprite,215,35,7525,5,3.2
+2023-10-22 14:11:00,India,West,Delhi,Vending Machine,Coke Zero,140,40,5600,5,3.5
+2025-02-16 16:07:00,India,Central,Chennai,Online,Coke Zero,281,40,11240,10,3.5
+2024-02-08 05:50:00,India,South,Delhi,Retail Store,Coke Zero,228,30,6840,15,4.2
+2022-09-02 01:03:00,India,West,Bangalore,Retail Store,Diet Coke,282,45,12690,10,3.1
+2024-07-17 13:31:00,India,West,Pune,Vending Machine,Coke Zero,225,50,11250,0,4.1
+2021-06-18 15:15:00,India,South,Bangalore,Restaurant,Coca-Cola Classic,201,30,6030,10,4.9
+2021-07-22 22:40:00,India,East,Delhi,Vending Machine,Coke Zero,270,40,10800,5,4.7
+2022-11-14 07:29:00,India,North,Bangalore,Retail Store,Thums Up,70,45,3150,5,3.9
+2021-06-24 17:02:00,India,North,Mumbai,Vending Machine,Fanta,274,35,9590,15,3.1
+2020-11-20 07:34:00,India,West,Mumbai,Restaurant,Fanta,167,40,6680,0,4.7
+2022-07-09 16:43:00,India,Central,Chennai,Supermarket,Sprite,73,30,2190,10,4.1
+2021-09-09 06:10:00,India,Central,Mumbai,Restaurant,Fanta,271,30,8130,0,3.9
+2022-09-03 13:32:00,India,Central,Bangalore,Retail Store,Coca-Cola Classic,16,50,800,5,4.7
+2022-10-18 09:34:00,India,North,Kolkata,Supermarket,Sprite,50,35,1750,0,3.7
+2021-10-08 08:43:00,India,Central,Hyderabad,Supermarket,Fanta,63,45,2835,0,3.3
+2022-09-05 20:34:00,India,Central,Hyderabad,Online,Sprite,259,50,12950,5,4.5
+2022-01-12 15:22:00,India,West,Kolkata,Vending Machine,Sprite,236,35,8260,0,3.3
+2021-07-19 07:04:00,India,East,Pune,Supermarket,Coke Zero,68,35,2380,10,4.3
+2022-11-23 07:26:00,India,West,Chennai,Supermarket,Sprite,278,50,13900,5,4.0
+2022-09-10 01:29:00,India,South,Kolkata,Supermarket,Diet Coke,151,30,4530,15,4.8
+2025-04-09 16:26:00,India,Central,Chennai,Vending Machine,Coca-Cola Classic,13,40,520,10,4.5
+2020-02-26 22:06:00,India,West,Pune,Retail Store,Coca-Cola Classic,109,50,5450,0,3.7
+2020-08-21 15:08:00,India,West,Hyderabad,Restaurant,Coke Zero,52,35,1820,15,4.2
+2022-12-31 07:06:00,India,West,Mumbai,Retail Store,Diet Coke,28,50,1400,5,3.0
+2024-12-28 16:39:00,India,West,Chennai,Restaurant,Coca-Cola Classic,106,45,4770,15,4.3
+2025-10-26 21:01:00,India,South,Mumbai,Retail Store,Thums Up,43,40,1720,0,3.3
+2025-02-03 14:55:00,India,Central,Delhi,Vending Machine,Sprite,49,35,1715,5,4.3
+2020-04-04 03:32:00,India,North,Delhi,Restaurant,Fanta,76,30,2280,15,4.0
+2021-03-17 09:30:00,India,West,Mumbai,Supermarket,Sprite,89,40,3560,5,3.5
+2024-02-28 03:56:00,India,North,Chennai,Vending Machine,Coca-Cola Classic,177,30,5310,0,3.9
+2024-11-12 17:12:00,India,East,Hyderabad,Restaurant,Thums Up,245,50,12250,0,4.6
+2020-06-29 09:34:00,India,North,Delhi,Restaurant,Sprite,239,40,9560,5,4.7
+2023-06-07 06:58:00,India,East,Bangalore,Vending Machine,Coca-Cola Classic,141,50,7050,0,4.1
+2023-03-08 02:22:00,India,North,Kolkata,Retail Store,Coca-Cola Classic,268,30,8040,10,4.5
+2021-08-07 08:25:00,India,North,Mumbai,Online,Sprite,157,50,7850,0,3.4
+2024-07-19 02:10:00,India,Central,Chennai,Online,Sprite,215,45,9675,10,3.7
+2025-10-15 07:04:00,India,West,Mumbai,Restaurant,Fanta,253,40,10120,5,3.6
+2025-11-10 11:27:00,India,North,Mumbai,Restaurant,Diet Coke,91,45,4095,15,4.8
+2024-07-20 22:28:00,India,Central,Delhi,Vending Machine,Thums Up,293,50,14650,5,3.3
+2024-02-06 06:24:00,India,North,Hyderabad,Restaurant,Coke Zero,190,30,5700,0,3.5
+2022-11-10 07:16:00,India,East,Chennai,Vending Machine,Diet Coke,123,45,5535,5,3.8
+2023-03-14 13:54:00,India,Central,Hyderabad,Vending Machine,Coca-Cola Classic,199,35,6965,10,3.3
+2021-02-09 01:54:00,India,Central,Hyderabad,Retail Store,Coca-Cola Classic,201,45,9045,15,3.1
+2021-05-09 18:51:00,India,North,Mumbai,Vending Machine,Diet Coke,92,35,3220,5,4.3
+2024-12-30 19:28:00,India,West,Chennai,Online,Thums Up,122,35,4270,5,4.4
+2021-05-03 18:12:00,India,West,Delhi,Retail Store,Sprite,87,30,2610,5,4.2
+2020-04-16 09:21:00,India,West,Mumbai,Restaurant,Fanta,43,30,1290,5,3.6
+2024-12-09 08:46:00,India,South,Kolkata,Vending Machine,Coke Zero,55,50,2750,0,4.6
+2025-09-22 07:56:00,India,West,Chennai,Restaurant,Coke Zero,241,35,8435,0,3.2
+2025-06-29 06:19:00,India,South,Kolkata,Online,Thums Up,264,45,11880,15,3.3
+2022-01-30 08:30:00,India,Central,Delhi,Restaurant,Fanta,191,45,8595,0,4.8
+2022-09-24 03:06:00,India,North,Bangalore,Vending Machine,Coca-Cola Classic,207,45,9315,10,3.4
+2025-02-08 23:00:00,India,South,Chennai,Online,Thums Up,203,35,7105,5,3.4
+2024-03-04 22:41:00,India,South,Bangalore,Retail Store,Coca-Cola Classic,192,35,6720,10,4.5
+2024-12-19 02:38:00,India,North,Hyderabad,Retail Store,Thums Up,107,35,3745,15,3.6
+2020-10-21 02:09:00,India,Central,Hyderabad,Online,Sprite,83,35,2905,10,4.5
+2022-01-10 21:41:00,India,North,Mumbai,Restaurant,Coke Zero,126,35,4410,5,3.3
+2020-06-28 19:35:00,India,East,Pune,Retail Store,Sprite,98,50,4900,10,3.9
+2024-11-10 15:32:00,India,Central,Bangalore,Retail Store,Diet Coke,204,30,6120,15,3.6
+2025-03-22 17:15:00,India,North,Mumbai,Retail Store,Coca-Cola Classic,181,50,9050,5,4.6
+2022-10-29 14:02:00,India,North,Mumbai,Online,Sprite,37,45,1665,5,4.2
+2022-11-27 23:13:00,India,South,Pune,Supermarket,Coke Zero,59,35,2065,10,4.8
+2022-06-03 23:18:00,India,West,Kolkata,Retail Store,Coke Zero,55,30,1650,15,4.4
+2020-06-30 03:21:00,India,Central,Chennai,Supermarket,Coke Zero,49,35,1715,10,3.7
+2023-03-04 11:30:00,India,North,Chennai,Vending Machine,Thums Up,250,30,7500,5,4.0
+2023-07-31 17:10:00,India,South,Chennai,Restaurant,Thums Up,293,35,10255,5,3.6
+2025-11-26 04:47:00,India,South,Pune,Online,Coca-Cola Classic,99,45,4455,10,3.9
+2022-07-21 10:10:00,India,West,Chennai,Online,Coke Zero,270,50,13500,0,3.8
+2020-02-18 23:28:00,India,North,Pune,Supermarket,Coke Zero,86,45,3870,5,3.0
+2025-03-20 16:02:00,India,West,Kolkata,Supermarket,Coca-Cola Classic,41,35,1435,10,3.2
+2025-09-29 05:11:00,India,West,Bangalore,Retail Store,Diet Coke,127,50,6350,5,4.4
+2024-09-07 17:18:00,India,South,Delhi,Supermarket,Coke Zero,220,40,8800,10,4.3
+2025-07-17 13:23:00,India,North,Chennai,Supermarket,Diet Coke,105,35,3675,15,3.5
+2024-01-24 18:29:00,India,South,Pune,Retail Store,Diet Coke,177,35,6195,10,4.6
+2023-07-12 05:08:00,India,West,Hyderabad,Online,Coca-Cola Classic,135,35,4725,15,4.3
+2021-09-05 21:10:00,India,North,Chennai,Online,Diet Coke,38,50,1900,10,4.9
+2025-02-07 05:43:00,India,Central,Chennai,Restaurant,Diet Coke,183,50,9150,5,4.5
+2024-06-09 06:14:00,India,Central,Mumbai,Supermarket,Coke Zero,130,35,4550,10,5.0
+2021-08-21 00:31:00,India,East,Pune,Retail Store,Coke Zero,18,35,630,10,3.0
+2020-01-26 19:32:00,India,East,Chennai,Supermarket,Coke Zero,229,40,9160,0,3.3
+2025-10-10 11:59:00,India,West,Hyderabad,Retail Store,Coca-Cola Classic,59,35,2065,10,3.2
+2022-01-21 00:56:00,India,East,Bangalore,Retail Store,Diet Coke,148,45,6660,5,3.1
+2024-04-01 09:17:00,India,Central,Mumbai,Retail Store,Thums Up,287,40,11480,0,4.5
+2021-12-31 13:26:00,India,West,Delhi,Online,Fanta,120,30,3600,5,3.8
+2021-02-25 00:10:00,India,North,Chennai,Restaurant,Fanta,130,45,5850,5,4.3
+2024-04-10 19:06:00,India,East,Delhi,Vending Machine,Coca-Cola Classic,149,30,4470,5,3.2
+2023-01-08 17:47:00,India,North,Bangalore,Restaurant,Thums Up,81,45,3645,0,3.4
+2021-10-16 17:19:00,India,North,Bangalore,Restaurant,Coke Zero,194,50,9700,10,3.7
+2025-05-30 13:27:00,India,North,Pune,Online,Sprite,101,50,5050,15,3.0
+2024-04-28 08:19:00,India,West,Chennai,Online,Sprite,214,50,10700,5,4.7
+2021-09-20 09:15:00,India,West,Kolkata,Supermarket,Coca-Cola Classic,106,45,4770,10,4.1
+2021-10-11 19:56:00,India,Central,Pune,Supermarket,Coca-Cola Classic,166,30,4980,5,4.0
+2024-07-09 19:03:00,India,West,Hyderabad,Supermarket,Fanta,119,40,4760,15,4.9
+2024-06-13 22:04:00,India,West,Hyderabad,Supermarket,Coke Zero,83,50,4150,5,4.6
+2024-11-14 01:25:00,India,East,Pune,Retail Store,Sprite,43,40,1720,10,3.6
+2022-05-13 01:43:00,India,North,Bangalore,Online,Coke Zero,133,35,4655,15,3.5
+2021-09-26 18:23:00,India,West,Delhi,Vending Machine,Fanta,123,45,5535,0,3.7
+2020-04-25 14:19:00,India,South,Mumbai,Supermarket,Coca-Cola Classic,281,45,12645,15,4.8
+2020-02-13 13:41:00,India,South,Chennai,Vending Machine,Sprite,253,30,7590,15,3.9
+2021-05-20 20:27:00,India,Central,Kolkata,Online,Sprite,116,35,4060,5,3.4
+2024-12-09 03:34:00,India,South,Kolkata,Retail Store,Coke Zero,29,45,1305,5,3.3
+2021-01-30 06:40:00,India,West,Hyderabad,Restaurant,Thums Up,15,40,600,5,4.7
+2022-12-22 16:34:00,India,West,Chennai,Retail Store,Fanta,59,35,2065,10,4.4
+2023-05-14 21:32:00,India,North,Mumbai,Online,Coca-Cola Classic,90,35,3150,5,4.2
+2025-09-15 07:59:00,India,Central,Delhi,Online,Diet Coke,198,50,9900,5,3.9
+2021-02-28 16:13:00,India,West,Chennai,Restaurant,Sprite,112,35,3920,5,4.3
+2023-08-03 13:06:00,India,Central,Kolkata,Vending Machine,Coke Zero,181,50,9050,10,4.7
+2023-03-22 01:42:00,India,Central,Delhi,Restaurant,Coca-Cola Classic,265,35,9275,0,3.7
+2024-03-21 22:25:00,India,Central,Hyderabad,Supermarket,Coca-Cola Classic,213,30,6390,15,4.4
+2021-08-12 20:29:00,India,West,Bangalore,Online,Diet Coke,54,35,1890,5,4.9
+2023-08-31 13:45:00,India,Central,Hyderabad,Online,Coke Zero,174,35,6090,15,3.4
+2021-11-26 21:13:00,India,Central,Mumbai,Online,Thums Up,20,40,800,0,5.0
+2020-06-12 10:01:00,India,South,Bangalore,Online,Coca-Cola Classic,65,50,3250,15,3.9
+2021-02-15 00:15:00,India,Central,Pune,Online,Thums Up,44,50,2200,10,4.2
+2022-11-14 11:02:00,India,South,Chennai,Vending Machine,Sprite,70,40,2800,15,3.5
+2020-11-13 12:24:00,India,North,Bangalore,Retail Store,Thums Up,48,30,1440,0,4.3
+2020-12-24 23:31:00,India,North,Hyderabad,Supermarket,Coca-Cola Classic,74,45,3330,5,3.7
+2023-01-28 01:24:00,India,South,Mumbai,Online,Diet Coke,19,40,760,15,4.2
+2020-03-03 11:46:00,India,East,Mumbai,Vending Machine,Diet Coke,229,50,11450,5,4.9
+2024-02-21 17:35:00,India,Central,Delhi,Vending Machine,Diet Coke,238,50,11900,15,3.3
+2023-10-12 05:13:00,India,West,Chennai,Online,Diet Coke,220,50,11000,5,4.9
+2020-01-21 01:27:00,India,North,Kolkata,Online,Coke Zero,144,45,6480,15,3.2
+2024-03-28 13:44:00,India,East,Bangalore,Retail Store,Thums Up,42,45,1890,10,4.6
+2021-01-28 20:59:00,India,East,Hyderabad,Vending Machine,Coke Zero,118,30,3540,5,3.3
+2024-05-23 16:08:00,India,Central,Kolkata,Online,Thums Up,148,45,6660,0,3.1
+2020-02-07 22:12:00,India,West,Mumbai,Supermarket,Coca-Cola Classic,255,40,10200,0,3.2
+2024-09-26 16:29:00,India,West,Mumbai,Supermarket,Thums Up,236,50,11800,5,3.6
+2025-12-02 23:19:00,India,East,Mumbai,Online,Coca-Cola Classic,213,40,8520,0,3.9
+2022-09-21 19:57:00,India,South,Kolkata,Supermarket,Coca-Cola Classic,55,45,2475,10,4.3
+2022-02-18 15:25:00,India,East,Chennai,Restaurant,Coca-Cola Classic,15,35,525,0,4.7
+2025-05-23 06:57:00,India,South,Kolkata,Retail Store,Thums Up,184,50,9200,10,4.2
+2021-04-22 18:37:00,India,South,Kolkata,Supermarket,Sprite,47,45,2115,5,3.5
+2023-01-13 08:30:00,India,South,Mumbai,Online,Coke Zero,23,30,690,10,4.1
+2022-04-23 15:10:00,India,East,Mumbai,Vending Machine,Coke Zero,27,50,1350,15,3.1
+2020-07-16 01:11:00,India,East,Kolkata,Vending Machine,Coca-Cola Classic,115,40,4600,10,5.0
+2025-10-20 20:04:00,India,Central,Kolkata,Retail Store,Coke Zero,120,45,5400,0,4.0
+2020-11-25 19:03:00,India,South,Kolkata,Online,Diet Coke,20,45,900,15,4.9
+2025-03-29 07:33:00,India,South,Hyderabad,Retail Store,Sprite,90,30,2700,15,3.3
+2025-01-20 13:12:00,India,South,Bangalore,Restaurant,Diet Coke,123,45,5535,15,4.3
+2023-01-17 10:58:00,India,North,Kolkata,Supermarket,Sprite,202,30,6060,10,3.9
+2022-12-21 04:29:00,India,North,Mumbai,Online,Diet Coke,299,35,10465,5,3.6
+2020-02-27 10:16:00,India,North,Bangalore,Supermarket,Thums Up,103,30,3090,15,4.1
+2022-01-14 14:53:00,India,West,Chennai,Retail Store,Sprite,240,50,12000,10,4.0
+2022-11-19 16:42:00,India,West,Mumbai,Retail Store,Coke Zero,54,40,2160,15,3.5
+2022-08-18 12:30:00,India,Central,Mumbai,Restaurant,Coca-Cola Classic,270,30,8100,0,4.1
+2023-01-24 12:24:00,India,Central,Pune,Restaurant,Fanta,80,50,4000,5,4.9
+2022-01-22 04:21:00,India,South,Pune,Restaurant,Coca-Cola Classic,286,35,10010,0,3.1
+2025-12-16 05:30:00,India,West,Delhi,Online,Coke Zero,83,50,4150,0,5.0
+2024-05-17 14:30:00,India,North,Pune,Restaurant,Coca-Cola Classic,101,40,4040,15,3.4
+2022-09-10 12:09:00,India,East,Pune,Supermarket,Thums Up,22,50,1100,5,3.9
+2025-03-24 12:43:00,India,Central,Mumbai,Vending Machine,Thums Up,195,40,7800,15,3.4
+2022-02-25 09:47:00,India,South,Delhi,Supermarket,Coke Zero,121,50,6050,0,3.1
+2025-11-07 08:13:00,India,Central,Chennai,Restaurant,Diet Coke,212,40,8480,10,3.0
+2023-06-10 04:00:00,India,North,Mumbai,Online,Fanta,26,40,1040,10,3.0
+2024-07-03 10:47:00,India,Central,Delhi,Retail Store,Diet Coke,77,35,2695,10,4.2
+2022-02-04 17:08:00,India,East,Pune,Online,Fanta,69,50,3450,15,3.8
+2021-12-19 02:35:00,India,Central,Hyderabad,Restaurant,Thums Up,140,30,4200,0,3.8
+2020-08-20 08:27:00,India,West,Mumbai,Online,Sprite,50,35,1750,10,4.7
+2023-07-27 10:39:00,India,East,Hyderabad,Supermarket,Coca-Cola Classic,99,50,4950,0,4.2
+2024-04-06 21:43:00,India,Central,Pune,Online,Sprite,46,40,1840,5,4.9
+2024-10-26 01:00:00,India,East,Hyderabad,Restaurant,Diet Coke,81,40,3240,5,3.7
+2020-07-03 00:22:00,India,Central,Hyderabad,Online,Thums Up,237,40,9480,0,3.5
+2024-09-28 11:01:00,India,Central,Delhi,Restaurant,Fanta,250,45,11250,0,3.1
+2021-05-23 19:36:00,India,East,Bangalore,Restaurant,Thums Up,288,40,11520,0,4.9
+2025-03-30 17:22:00,India,Central,Chennai,Restaurant,Diet Coke,299,30,8970,10,3.4
+2023-09-15 20:21:00,India,West,Chennai,Supermarket,Coke Zero,38,40,1520,0,4.5
+2021-05-05 12:57:00,India,North,Delhi,Restaurant,Fanta,44,50,2200,15,4.4
+2024-06-17 08:51:00,India,South,Pune,Vending Machine,Diet Coke,269,40,10760,10,3.5
+2024-06-28 03:43:00,India,West,Kolkata,Supermarket,Sprite,27,40,1080,10,4.3
+2021-12-11 22:48:00,India,North,Mumbai,Retail Store,Fanta,48,45,2160,10,4.8
+2024-01-29 11:59:00,India,West,Hyderabad,Vending Machine,Coca-Cola Classic,119,40,4760,15,4.1
+2020-06-29 11:52:00,India,South,Mumbai,Retail Store,Diet Coke,153,35,5355,0,3.8
+2024-08-17 21:36:00,India,Central,Pune,Online,Diet Coke,33,50,1650,10,3.9
+2025-03-06 04:41:00,India,South,Bangalore,Online,Fanta,206,45,9270,10,3.7
+2023-05-05 21:16:00,India,South,Chennai,Retail Store,Fanta,245,40,9800,0,4.9
+2022-02-24 01:28:00,India,South,Hyderabad,Restaurant,Coke Zero,266,50,13300,15,3.5
+2022-11-28 18:51:00,India,West,Mumbai,Restaurant,Diet Coke,132,35,4620,0,4.4
+2024-07-10 21:13:00,India,North,Chennai,Restaurant,Coca-Cola Classic,259,40,10360,0,3.8
+2020-10-15 03:56:00,India,West,Kolkata,Online,Fanta,108,35,3780,5,3.7
+2023-03-07 12:21:00,India,East,Mumbai,Supermarket,Fanta,26,30,780,0,5.0
+2021-01-04 09:02:00,India,South,Pune,Online,Fanta,232,35,8120,10,4.9
+2020-10-21 00:21:00,India,West,Delhi,Vending Machine,Coca-Cola Classic,246,30,7380,15,4.0
+2022-01-20 18:19:00,India,South,Pune,Retail Store,Coca-Cola Classic,132,35,4620,0,3.6
+2022-08-16 14:57:00,India,North,Chennai,Supermarket,Diet Coke,219,50,10950,5,3.5
+2021-07-14 03:08:00,India,West,Delhi,Restaurant,Sprite,271,50,13550,10,4.9
+2022-01-06 01:30:00,India,North,Mumbai,Supermarket,Sprite,54,50,2700,0,3.6
+2023-11-26 11:24:00,India,North,Bangalore,Restaurant,Coca-Cola Classic,293,35,10255,10,3.0
+2022-04-27 18:53:00,India,North,Delhi,Retail Store,Sprite,53,45,2385,0,4.7
+2022-11-18 12:45:00,India,Central,Delhi,Online,Diet Coke,285,45,12825,0,3.8
+2020-05-05 07:26:00,India,West,Bangalore,Supermarket,Coca-Cola Classic,69,35,2415,10,4.1
+2021-03-09 21:14:00,India,North,Chennai,Retail Store,Coca-Cola Classic,26,35,910,0,5.0
+2022-04-14 11:25:00,India,North,Mumbai,Supermarket,Coca-Cola Classic,100,35,3500,0,4.9
+2023-10-28 00:13:00,India,West,Mumbai,Supermarket,Thums Up,292,50,14600,0,4.2
+2021-10-07 17:07:00,India,East,Bangalore,Supermarket,Sprite,281,30,8430,5,3.3
+2022-10-25 20:10:00,India,Central,Pune,Vending Machine,Sprite,218,45,9810,0,3.8
+2024-08-23 08:25:00,India,South,Chennai,Supermarket,Fanta,30,50,1500,15,3.6
+2025-02-02 15:40:00,India,South,Kolkata,Supermarket,Coke Zero,120,45,5400,5,3.7
+2024-07-28 05:06:00,India,North,Pune,Online,Diet Coke,104,50,5200,0,3.7
+2020-01-07 02:42:00,India,South,Bangalore,Online,Diet Coke,300,30,9000,10,3.9
+2022-10-03 14:31:00,India,Central,Pune,Retail Store,Thums Up,198,40,7920,0,4.7
+2024-03-31 16:14:00,India,East,Mumbai,Vending Machine,Coke Zero,253,40,10120,5,3.7
+2023-04-04 09:26:00,India,Central,Kolkata,Vending Machine,Coca-Cola Classic,177,30,5310,15,3.0
+2023-04-18 04:36:00,India,North,Mumbai,Supermarket,Sprite,45,45,2025,0,4.9
+2024-03-30 08:46:00,India,South,Mumbai,Supermarket,Coca-Cola Classic,174,30,5220,5,4.5
+2023-03-15 23:52:00,India,South,Mumbai,Supermarket,Sprite,162,45,7290,0,4.2
+2022-04-10 02:50:00,India,South,Mumbai,Retail Store,Fanta,99,45,4455,0,3.3
+2020-09-02 20:25:00,India,North,Kolkata,Online,Thums Up,39,30,1170,10,3.3
+2025-08-13 10:57:00,India,South,Bangalore,Vending Machine,Thums Up,202,45,9090,0,3.9
+2024-05-21 10:19:00,India,East,Mumbai,Retail Store,Diet Coke,87,50,4350,10,3.8
+2023-08-03 05:09:00,India,North,Delhi,Online,Diet Coke,109,40,4360,5,4.7
+2020-04-10 15:54:00,India,East,Delhi,Restaurant,Coke Zero,288,30,8640,0,3.4
+2024-07-01 07:41:00,India,East,Pune,Retail Store,Sprite,62,40,2480,10,4.2
+2020-02-14 04:35:00,India,North,Hyderabad,Supermarket,Fanta,37,35,1295,10,4.2
+2025-03-11 20:18:00,India,South,Delhi,Retail Store,Coke Zero,256,35,8960,5,3.6
+2022-10-19 04:51:00,India,South,Delhi,Restaurant,Thums Up,146,40,5840,0,4.8
+2022-02-26 00:38:00,India,East,Bangalore,Restaurant,Coke Zero,266,40,10640,10,4.8
+2025-01-11 07:19:00,India,Central,Pune,Vending Machine,Coke Zero,153,45,6885,0,3.6
+2025-12-09 05:57:00,India,South,Delhi,Restaurant,Coca-Cola Classic,98,45,4410,0,4.0
+2022-04-28 16:43:00,India,West,Pune,Supermarket,Sprite,61,50,3050,5,4.0
+2023-08-27 05:52:00,India,North,Pune,Vending Machine,Diet Coke,179,35,6265,5,4.1
+2024-10-21 02:52:00,India,East,Chennai,Vending Machine,Coca-Cola Classic,108,40,4320,15,3.6
+2022-02-11 08:45:00,India,East,Bangalore,Supermarket,Sprite,66,45,2970,0,4.3
+2022-12-12 00:18:00,India,East,Pune,Vending Machine,Thums Up,115,30,3450,15,4.2
+2023-10-19 11:27:00,India,Central,Bangalore,Vending Machine,Thums Up,94,50,4700,0,3.5
+2020-09-03 16:04:00,India,South,Kolkata,Supermarket,Fanta,201,40,8040,10,3.2
+2021-03-07 16:53:00,India,East,Chennai,Restaurant,Coke Zero,190,30,5700,0,3.4
+2023-01-07 14:51:00,India,South,Hyderabad,Vending Machine,Sprite,46,30,1380,0,3.9
+2025-12-24 04:49:00,India,South,Mumbai,Supermarket,Coca-Cola Classic,189,40,7560,10,4.2
+2023-10-03 07:53:00,India,West,Kolkata,Vending Machine,Fanta,182,40,7280,15,3.1
+2020-12-08 00:00:00,India,East,Kolkata,Retail Store,Sprite,176,30,5280,15,3.9
+2025-02-21 10:45:00,India,East,Kolkata,Supermarket,Coke Zero,288,40,11520,15,4.7
+2022-04-24 21:30:00,India,Central,Mumbai,Restaurant,Coke Zero,260,40,10400,0,4.0
+2024-08-09 01:36:00,India,South,Chennai,Vending Machine,Coke Zero,140,50,7000,10,3.2
+2022-09-15 15:54:00,India,West,Bangalore,Online,Fanta,259,30,7770,0,4.0
+2020-11-21 14:25:00,India,Central,Chennai,Supermarket,Coke Zero,233,40,9320,5,4.2
+2022-08-27 07:13:00,India,East,Chennai,Online,Diet Coke,46,50,2300,5,4.7
+2025-12-22 17:31:00,India,East,Hyderabad,Supermarket,Thums Up,249,35,8715,5,4.9
+2024-03-22 00:26:00,India,South,Chennai,Retail Store,Fanta,229,40,9160,0,3.8
+2023-10-21 03:07:00,India,South,Kolkata,Online,Coca-Cola Classic,113,30,3390,5,3.8
+2021-04-26 22:19:00,India,East,Hyderabad,Retail Store,Sprite,179,50,8950,0,4.3
+2021-11-25 22:37:00,India,West,Delhi,Restaurant,Coke Zero,78,50,3900,0,4.3
+2025-12-17 05:34:00,India,East,Hyderabad,Vending Machine,Coca-Cola Classic,79,35,2765,0,4.2
+2020-04-29 10:17:00,India,North,Mumbai,Retail Store,Fanta,252,50,12600,5,3.5
+2021-04-23 07:46:00,India,North,Delhi,Online,Coca-Cola Classic,106,35,3710,0,3.5
+2024-10-31 03:47:00,India,South,Mumbai,Retail Store,Sprite,21,45,945,0,4.7
+2024-09-16 03:31:00,India,South,Hyderabad,Supermarket,Coke Zero,222,45,9990,5,4.9
+2020-10-11 06:19:00,India,North,Mumbai,Retail Store,Diet Coke,282,35,9870,5,4.9
+2020-06-02 16:06:00,India,East,Chennai,Retail Store,Coke Zero,239,50,11950,0,3.7
+2023-01-06 13:31:00,India,West,Delhi,Restaurant,Fanta,245,40,9800,5,4.5
+2020-01-26 23:42:00,India,North,Bangalore,Retail Store,Thums Up,75,35,2625,10,3.8
+2020-04-28 19:13:00,India,South,Mumbai,Retail Store,Thums Up,14,35,490,5,3.2
+2023-09-11 08:42:00,India,South,Delhi,Vending Machine,Coca-Cola Classic,210,50,10500,10,3.7
+2025-03-26 12:36:00,India,Central,Pune,Vending Machine,Coca-Cola Classic,64,30,1920,15,3.3
+2024-12-01 01:57:00,India,West,Delhi,Supermarket,Diet Coke,190,45,8550,15,4.9
+2021-01-31 11:29:00,India,Central,Bangalore,Supermarket,Coke Zero,32,35,1120,10,3.8
+2024-10-04 08:17:00,India,South,Hyderabad,Restaurant,Fanta,196,50,9800,15,4.1
+2021-01-21 21:23:00,India,Central,Bangalore,Vending Machine,Coke Zero,163,30,4890,5,3.5
+2024-06-23 10:39:00,India,West,Chennai,Supermarket,Thums Up,125,45,5625,10,5.0
+2024-07-27 18:36:00,India,West,Delhi,Vending Machine,Fanta,221,35,7735,10,3.3
+2024-07-26 09:35:00,India,West,Kolkata,Online,Sprite,50,30,1500,0,3.0
+2020-05-19 16:31:00,India,North,Bangalore,Retail Store,Fanta,127,35,4445,5,4.1
+2025-12-06 21:01:00,India,West,Kolkata,Supermarket,Fanta,179,40,7160,0,3.2
+2024-02-16 14:39:00,India,Central,Hyderabad,Supermarket,Coke Zero,265,35,9275,0,3.0
+2020-09-18 02:29:00,India,North,Kolkata,Restaurant,Coke Zero,211,30,6330,10,4.5
+2023-07-02 21:57:00,India,Central,Bangalore,Supermarket,Coke Zero,144,30,4320,10,3.7
+2021-05-26 21:40:00,India,North,Kolkata,Restaurant,Fanta,263,50,13150,10,3.1
+2025-03-26 23:36:00,India,East,Delhi,Supermarket,Thums Up,184,45,8280,10,4.4
+2022-02-18 13:17:00,India,South,Hyderabad,Retail Store,Coca-Cola Classic,298,45,13410,5,4.3
+2020-10-15 09:26:00,India,West,Pune,Online,Coca-Cola Classic,230,45,10350,10,4.5
+2023-12-11 20:41:00,India,East,Delhi,Supermarket,Fanta,259,50,12950,15,3.9
+2025-10-06 12:26:00,India,East,Chennai,Supermarket,Coca-Cola Classic,12,50,600,15,4.2
+2025-04-10 17:26:00,India,South,Kolkata,Retail Store,Fanta,249,45,11205,15,4.1
+2022-09-10 13:59:00,India,North,Chennai,Supermarket,Fanta,69,30,2070,5,3.5
+2025-05-15 14:38:00,India,West,Hyderabad,Online,Diet Coke,225,50,11250,10,4.6
+2020-04-03 11:33:00,India,East,Bangalore,Retail Store,Thums Up,202,35,7070,0,4.8
+2024-11-23 12:47:00,India,South,Mumbai,Vending Machine,Coke Zero,241,45,10845,10,3.1
+2022-08-29 13:32:00,India,North,Delhi,Supermarket,Coke Zero,231,40,9240,15,3.7
+2023-07-07 11:50:00,India,North,Bangalore,Supermarket,Sprite,193,35,6755,15,3.7
+2020-05-29 12:53:00,India,Central,Hyderabad,Supermarket,Diet Coke,168,50,8400,10,4.3
+2020-01-13 03:04:00,India,West,Mumbai,Online,Coke Zero,97,45,4365,0,4.2
+2025-06-28 20:07:00,India,Central,Delhi,Vending Machine,Coke Zero,264,30,7920,5,4.6
+2020-08-07 08:37:00,India,East,Mumbai,Restaurant,Fanta,89,30,2670,15,3.3
+2021-07-26 10:22:00,India,West,Bangalore,Supermarket,Coca-Cola Classic,119,45,5355,5,3.7
+2023-10-19 06:53:00,India,East,Mumbai,Retail Store,Thums Up,82,50,4100,0,4.8
+2023-01-10 21:47:00,India,North,Mumbai,Retail Store,Diet Coke,112,35,3920,5,3.2
+2024-03-23 04:43:00,India,South,Delhi,Retail Store,Fanta,31,40,1240,5,3.7
+2021-12-03 13:20:00,India,East,Kolkata,Vending Machine,Diet Coke,287,40,11480,0,4.9
+2020-11-05 18:21:00,India,Central,Delhi,Supermarket,Diet Coke,85,50,4250,15,3.9
+2024-11-30 18:53:00,India,East,Mumbai,Restaurant,Thums Up,66,35,2310,0,4.2
+2025-05-01 11:05:00,India,Central,Chennai,Vending Machine,Diet Coke,218,40,8720,0,5.0
+2022-02-21 22:01:00,India,West,Pune,Retail Store,Coca-Cola Classic,204,40,8160,5,4.0
+2024-08-15 08:02:00,India,East,Hyderabad,Supermarket,Diet Coke,88,30,2640,15,4.1
